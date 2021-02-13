@@ -2,7 +2,7 @@
 
 
 
-	Projeyi arayüzü geldiğinde 1-2-3-4-5-6-7 seçim tuşları;
+	Proje arayüzü geldiğinde 1-2-3-4-5-6-7 seçim tuşları;
 
 	“1” tuşu “Belirli sayıdan fazla komşuya sahip şehirlerin listesini vermektedir.”
 	
